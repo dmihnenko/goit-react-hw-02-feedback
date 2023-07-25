@@ -12,7 +12,7 @@ export const ButtonListItem = styled.li`
 `;
 
 export const Button = styled.button`
-  background-color: #3a74c0;
+  background-color: #7eb8de;
   color: white;
   border: none;
   padding: 10px 20px;
